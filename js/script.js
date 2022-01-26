@@ -31,8 +31,6 @@ function displayH1Content(){
   }
 }
 
-
-
 // Question4
 function getSuiviEvent(){
   const elmntButton = document.getElementById("buttonId");// Prend en param l'id du bouton
