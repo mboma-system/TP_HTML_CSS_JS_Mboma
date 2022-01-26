@@ -27,7 +27,7 @@ let allh1 = document.getElementsByTagName('h1');
 
 function displayH1Content(){
     for (var i = 0; i < allh1.length; i++) {
-      console.log(allh1[i].innerHTML);
+      alert(allh1[i].innerHTML);
   }
 }
 
